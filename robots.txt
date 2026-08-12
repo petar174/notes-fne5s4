@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://petar174.github.io/notes-fne5s4/sitemap.xml
